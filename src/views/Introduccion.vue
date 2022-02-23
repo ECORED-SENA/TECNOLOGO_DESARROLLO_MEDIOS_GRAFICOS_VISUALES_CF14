@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    p.mb-5 Antes de iniciar este componente formativo, es importante conocer que ePub es un formato de archivo que permite leer libros digitales y su extensión es “.ePub” y su traducción al inglés es electronic publication y este hace parte del ecosistema de producción editorial digital, el cual, hace referencia al conjunto de infraestructuras y prestaciones, tales como plataformas y dispositivos de acceso, que se vinculan en el suministro de contenidos y de servicios por medio de Internet.
+    p.mb-5 Antes de iniciar este componente formativo, es importante conocer que <i>ePub</i> es un formato de archivo que permite leer libros digitales y su extensión es “<i><b>.ePub</b></i>” y su traducción al inglés es <i>electronic publication</i> y este hace parte del ecosistema de producción editorial digital, el cual, hace referencia al conjunto de infraestructuras y prestaciones, tales como plataformas y dispositivos de acceso, que se vinculan en el suministro de contenidos y de servicios por medio de Internet.
     .tarjeta.bg-container.p-5
       .row.justify-content-center.align-items-center
         .col-lg-10

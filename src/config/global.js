@@ -125,7 +125,7 @@ export default {
     },
     {
       referencia:
-        'Chip N Dale Stories. (2015). Mickey Mouse en español latino capítulos completos, la caravana mickey movie. [video].',
+        '<i>Chip N Dale Stories.</i> (2015). <i>Mickey Mouse</i> en español latino capítulos completos, la caravana <i>mickey movie.</i> [video].',
       link:
         'https://www.youtube.com/watch?v=kIbqzo8Ic3U&list=PLLpJmQT2DNaIeRnsS-F1r1BH8nnT1kxLz',
     },
@@ -192,10 +192,10 @@ export default {
     },
     {
       texto:
-        'Chip N Dale Stories. (2015). Mickey Mouse en español latino capítulos completos, la caravana mickey movie. [video]. YouTube. ',
+        '<i>Chip N Dale Stories.</i> (2015). <i>Mickey Mouse</i> en español latino capítulos completos, la caravana <i>mickey movie.</i> [video]. YouTube. ',
       tipo: 'Enlace',
       link:
-        'Chip N Dale Stories. (2015). Mickey Mouse en español latino capítulos completos, la caravana mickey movie. [video]. YouTube. ',
+        'https://www.youtube.com/watch?v=kIbqzo8Ic3U&list=PLLpJmQT2DNaIeRnsS-F1r1BH8nnT1kxLz',
     },
   ],
   creditos: {
@@ -326,7 +326,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Yuli Marcela Gómez Tarazona',
+        nombre: 'Veimar Celis',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

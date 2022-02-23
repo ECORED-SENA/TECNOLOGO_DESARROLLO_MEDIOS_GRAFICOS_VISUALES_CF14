@@ -36,7 +36,7 @@
                   p Se puede elaborar contenido digital  a través de la creación de una página web.
                     br
                     br
-                    |Existen gran cantidad de herramientas gratuitas para diseñar páginas web, inclusive que  hoy en día dan al usuario, la posibilidad de generar contenido teniendo poco conocimiento de diseño web .
+                    |Existen gran cantidad de herramientas gratuitas para diseñar páginas web, inclusive que  hoy en día dan al usuario, la posibilidad de generar contenido teniendo poco conocimiento de diseño web.
                 .col-lg-6: img(src="@/assets/curso/0.jpg")
             .carousel-item.bg--amarillo-claro
               .row
@@ -100,16 +100,16 @@
                   ul.lista-ul.icon-1
                     li 
                       i.fas.fa-circle.fa-xs
-                      p <b>Producción fotográfica:</b> En este paso se deben encontrar y suministrar las  imágenes más adecuadas que cumplan con los requerimientos técnicos específicos, para así completar la galería necesaria. 
+                      p <b>Producción fotográfica:</b> en este paso se deben encontrar y suministrar las  imágenes más adecuadas que cumplan con los requerimientos técnicos específicos, para así completar la galería necesaria. 
                     li 
                       i.fas.fa-circle.fa-xs
-                      p <b>Producción sonora:</b> Se deben suministrar los elementos sonoros necesarios de acuerdo a la producción para la cual se esté desarrollando el proyecto.
+                      p <b>Producción sonora:</b> se deben suministrar los elementos sonoros necesarios de acuerdo a la producción para la cual se esté desarrollando el proyecto.
                     li 
                       i.fas.fa-circle.fa-xs
-                      p <b>Producción animada:</b> Se encarga de realizar los contenidos animados en 2d o 3d, de acuerdo también a los requerimientos establecidos.
+                      p <b>Producción animada:</b> se encarga de realizar los contenidos animados en 2d o 3d, de acuerdo también a los requerimientos establecidos.
                     li 
                       i.fas.fa-circle.fa-xs
-                      p <b>Producción video gráfica:</b>  Aquí se editan y arreglan todos los componentes que se necesitan para el proyecto.
+                      p <b>Producción video gráfica:</b>  aquí se editan y arreglan todos los componentes que se necesitan para el proyecto.
                 .col-lg-6.h-100: img(src="@/assets/curso/5.jpg")
             .carousel-item.bg--amarillo-claro
               .row.justify-content-center.align-items-center
@@ -166,7 +166,7 @@
               p <b>Estilos de carácter:</b> Los estilos de carácter se destinan principalmente a un grupo de palabra o letras, dando características como subrayados, negrita o cursiva. Los estilos se deben priorizar como elemento de jerarquía en la publicación.
         .col-lg-5.mt-lg-0.mt-3(data-aos="fade-left")
           .imagen-adornos-flotantes
-            img(src="@/assets/curso/9.jpg" alt="Adornos flotantes")
+            img(src="@/assets/curso/9.svg" alt="Adornos flotantes")
             .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: -10% ; top: ; bottom: 10% ; width: 90px ")
             .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 10% ; right: ; top:0 ; bottom: ; width: 60px ")
             .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0% ; right: ; top: ; bottom: 5% ; width: 60px ")
@@ -213,7 +213,7 @@
         p Una plataforma digital (ver figura 1) es un sitio que alberga información de contendidos diversos que están a disposición de los consumidores y permiten la ejecución de varias aplicaciones y programas  a la vez,  utilizando la menor cantidad de recursos posibles. 
           br
           br
-          |Existen diferentes tipos de plataformas que se clasifican de acuerdo a su uso y funcionalidad, las plataformas en donde se puede encontrar contenido ePub, principalmente son las siguientes:  
+          |Existen diferentes tipos de plataformas que se clasifican de acuerdo a su uso y funcionalidad, las plataformas en donde se puede encontrar contenido <i>ePub</i>, principalmente son las siguientes:  
       .col-lg-6(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
@@ -228,82 +228,83 @@
         .row
           .col-lg-6
             h4 Plataformas educativas
-            p Las plataformas educativas son de gran importancia sobre todo en los contextos actuales, ya que simulan el proceso educativo presencial de manera virtual,  dan al consumidor las herramientas necesarias para que pueda llevar a cabo desde pequeños cursos, hasta una carrera profesional, ofreciendo por lo general gran cantidad de recursos como bibliotecas virtuales, ePub y material de apoyo de carácter educativo. 
-          .col-lg-6: img(src="@/assets/curso/13.jpg" alt="")
+            p Las plataformas educativas son de gran importancia sobre todo en los contextos actuales, ya que simulan el proceso educativo presencial de manera virtual,  dan al consumidor las herramientas necesarias para que pueda llevar a cabo desde pequeños cursos, hasta una carrera profesional, ofreciendo por lo general gran cantidad de recursos como bibliotecas virtuales, <i>ePub</i> y material de apoyo de carácter educativo. 
+          .col-lg-6: img(src="@/assets/curso/13.png" alt="")
       .tarjeta.color-acento-contenido--borde.bg--3-claro3.border-2.p-4(titulo="Plataformas de imágenes")
         .row
           .col-lg-6
             h4 Plataformas de imágenes
             p Este  tipo de plataformas tan útiles para cualquier diseñador, cuenta con bancos  extensos de imágenes, fotografías e ilustraciones, algunas de dominio público y otras con copyright o pago.
-          .col-lg-6: img(src="@/assets/curso/14.jpg" alt="")
+          .col-lg-6: img(src="@/assets/curso/14.png" alt="")
       .tarjeta.color-acento-contenido--borde.bg--3-claro3.border-2.p-4(titulo="Plataformas audiovisuales")
         .row
           .col-lg-6
             h4 Plataformas audiovisuales
             p Estas plataformas se dedican al contenido de videos de todos los temas de interés de los consumidores.
-          .col-lg-6: img(src="@/assets/curso/15.jpg" alt="")
+          .col-lg-6: img(src="@/assets/curso/15.png" alt="")
       .tarjeta.color-acento-contenido--borde.bg--3-claro3.border-2.p-4(titulo="Plataformas sociales")
         .row
           .col-lg-6
             h4 Plataformas sociales
             p Este tipo de plataformas están en auge y sirven específicamente para llevar a cabo interacciones sociales, basadas en intereses en común.
-          .col-lg-6: img(src="@/assets/curso/16.jpg" alt="")
+          .col-lg-6: img(src="@/assets/curso/16.png" alt="")
       .tarjeta.color-acento-contenido--borde.bg--3-claro3.border-2.p-4(titulo="Plataformas de comercio electrónico")
         .row
           .col-lg-6
             h4 Plataformas de comercio electrónico
             p Estas plataformas se dedican al comercio 24/7, aunque existen muchas páginas dedicadas a este tipo de negocios, también almacenes como supermercados y librerías han adoptado este modelo de negocio. 
-          .col-lg-6: img(src="@/assets/curso/17.jpg" alt="")
+          .col-lg-6: img(src="@/assets/curso/17.png" alt="")
       .tarjeta.color-acento-contenido--borde.bg--3-claro3.border-2.p-4(titulo="Plataformas bancarias")
         .row
           .col-lg-6
             h4 Plataformas bancarias
             p Todas las entidades bancarias tienen sus servicios disponibles para clientes, en sus plataformas virtuales, en donde adicionalmente se pueden hacer transacciones y operaciones que antes se hacían presencialmente.
-          .col-lg-6: img(src="@/assets/curso/18.jpg" alt="")
+          .col-lg-6: img(src="@/assets/curso/18.png" alt="")
       .tarjeta.color-acento-contenido--borde.bg--3-claro3.border-2.p-4(titulo="Plataformas de pago")
         .row
           .col-lg-6
             h4 Plataformas de pago
             p Estas plataformas permiten recibir y realizar pagos con dinero de manera virtual
-          .col-lg-6: img(src="@/assets/curso/19.jpg" alt="")
+          .col-lg-6: img(src="@/assets/curso/19.png" alt="")
       .tarjeta.color-acento-contenido--borde.bg--3-claro3.border-2.p-4(titulo="Plataformas de noticias")
         .row
           .col-lg-6
             h4 Plataformas de noticias
             p Este tipo de plataformas tiene como objetivo tener a la gente informada con las noticias minuto a minuto.
-          .col-lg-6: img(src="@/assets/curso/20.jpg" alt="")
+          .col-lg-6: img(src="@/assets/curso/20.png" alt="")
     .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
       h4.mb-0.me-3 Dispositivos de publicación
     .row.mb-5.align-items-center
       .col-lg-6(data-aos="fade-right")
-        p Dentro de los dispositivos en donde se pueden publicar este tipo de contenidos, se encuentran dispositivos comunes con los cuales se con vive todos los días y que gracias a su constante accesos a internet, permiten una interconexión en todo momento y todo lugar, lo cual en el caso de los ebooks es indispensable, por lo menos en un primer momento para poder bajar y manipular los contenidos. 
+        p Dentro de los dispositivos en donde se pueden publicar este tipo de contenidos, se encuentran dispositivos comunes con los cuales se con vive todos los días y que gracias a su constante accesos a internet, permiten una interconexión en todo momento y todo lugar, lo cual en el caso de los <i>ebooks</i> es indispensable, por lo menos en un primer momento para poder bajar y manipular los contenidos. 
       .col-lg-6(data-aos="fade-left")
         .imagen-adornos-flotantes
             img(src="@/assets/curso/21.jpg" alt="Adornos flotantes")
             .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 5% ; top: ; bottom: 10% ; width: 90px ")
             .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 10% ; right: ; top:0 ; bottom: ; width: 60px ")
             .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0% ; right: ; top: ; bottom: 5% ; width: 60px ")
+    p.mb-5 Los dispositivos más utilizados para este fin son:
     .row.mb-5
       .col-lg-4
         .tarjeta-imagen.bg--1.p-5.h-100
           .tarjeta-imagen__img: img(src="@/assets/curso/25.jpg")(@mouseover="mostrarIndicador= false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/22.svg' alt='AvatarTop' style='width: 67px').mb-3
-          h4 Tablets
+          h4 <i>Tablets</i>
           p.text-center Son ideales por su tamaño, su peso el cual simula el de un libro,  y su pantalla de gran resolución, generan que la lectura se vuelva fácil y mucho más cómoda que en otros dispositivos.
       .col-lg-4
         .tarjeta-imagen.bg--1.p-5.h-100
           .tarjeta-imagen__img: img(src="@/assets/curso/26.jpg")
           img(src='@/assets/curso/23.svg' alt='AvatarTop' style='width: 67px').mb-3
           h4 Dispositivos celulares
-          p.text-center Tal vez es uno de los dispositivos más utilizados, ya que a diferencia de una Tablet, el celular se ha vuelto parte de nuestras vidas cotidianas. Tiene capacidad de procesamiento, de conexión a internet y con memoria que le permite llevar a cabo varias tareas.
+          p.text-center Tal vez es uno de los dispositivos más utilizados, ya que a diferencia de una <i>Tablet</i>, el celular se ha vuelto parte de nuestras vidas cotidianas. Tiene capacidad de procesamiento, de conexión a internet y con memoria que le permite llevar a cabo varias tareas.
       .col-lg-4
         .tarjeta-imagen.bg--1.p-5.h-100
           .tarjeta-imagen__img: img(src="@/assets/curso/27.jpg")
           img(src='@/assets/curso/24.svg' alt='AvatarTop' style='width: 67px').mb-3
           h4 Computadores o portátiles
           p.text-center Son utilizados en este tipo de actividades, sin embargo hay que decir que al igual que el libro de papel,  los lectores quieren tener la portabilidad de llevar el libro a todas partes, lo cual en un equipo de mesa no es posible, pero si en un computador portátil.
-    p.mb-5 A pesar de esto se han diseñado dispositivos especializados como Ebook o e-Reader para llevar a cabo actividades de lectura, los cuales cuentan con pantallas de tinta electrónica, que permite una fácil lectura tanto en interiores como en exteriores, la luz emitida por el dispositivo es hacia la pantalla y no hacia los ojos del lector, materiales que imitan y simulan el papel. Estos dispositivos son utilizados especialmente para la lectura de los llamados Fluid Layout ePub, cuyo contenido es más escrito que de carácter visual (ver figuras 2, 3 y 4). 
+    p.mb-5 A pesar de esto se han diseñado dispositivos especializados como <i>Ebook</i> o <i>e-Reader</i> para llevar a cabo actividades de lectura, los cuales cuentan con pantallas de tinta electrónica, que permite una fácil lectura tanto en interiores como en exteriores, la luz emitida por el dispositivo es hacia la pantalla y no hacia los ojos del lector, materiales que imitan y simulan el papel. Estos dispositivos son utilizados especialmente para la lectura de los llamados <i>Fluid Layoute Pub</i>, cuyo contenido es más escrito que de carácter visual (ver figuras 2, 3 y 4). 
     .row.mb-5
       .col-lg-4
         .titulo-sexto.color-acento-contenido
@@ -334,18 +335,18 @@
           .tarjeta.bg--2-claro3
             .p-4
               h4 PDF:
-              p Acrónimo del inglés portable document format, formato de documento portátil), este formato desarrollado por la empresa <i>Adobe System</i>. Es multiplataforma, es decir, puede ser presentado por los principales sistemas operativos (<i>Windows, Unix/Linux o Mac</i>).
+              p Acrónimo del inglés <i>portable document format</i>, formato de documento portátil), este formato desarrollado por la empresa <i>Adobe System</i>. Es multiplataforma, es decir, puede ser presentado por los principales sistemas operativos (<i>Windows, Unix/Linux o Mac</i>).
       .col-lg-6
         .tarjeta-avatar-b.mb-5.h-100.align-items-center
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/32.svg' alt='AvatarTop')
           .tarjeta.bg--1-claro2
             .p-4
-              h4 Mobipocket:
+              h4 <i>Mobipocket:</i>
               p Mobi es un formato para archivos de libros electrónicos creado por Mobipocket S.A. 
                 br
                 br
-                |El formato .mobi esta basado en las especificaciones Open eBook con protección DRM.
+                |El formato .mobi esta basado en las especificaciones <i>Open eBook</i> con protección DRM.
     .row.mb-5
       .col-lg-6
         .tarjeta-avatar-b.mb-5.h-100.align-items-center
@@ -354,7 +355,7 @@
           .tarjeta.bg--4-claro
             .p-4
               h4 Ms <i>Word</i> a <i>EPub</i> convertidor:
-              p Esta herramienta específicamente lo que hace es convertir archivos de Word a extensión <i>EPub</i>. 
+              p Esta herramienta específicamente lo que hace es convertir archivos de <i>Word</i> a extensión <i>EPub</i>. 
       .col-lg-6
         .tarjeta-avatar-b.mb-5.h-100.align-items-center
           .tarjeta-avatar-b__img
@@ -364,24 +365,24 @@
               h4 Sigil: 
               p Este es un creador para libro electrónico, que utiliza herramientas de muy fácil acceso y creación. 
     .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-      h4.mb-0.me-3 Estructura ePub
+      h4.mb-0.me-3 Estructura <i>ePub</i>
     .row.mb-5.align-items-center
       .col-lg-7(data-aos="fade-right")
-        p La estructura básica del ePub está conformada por un archivo comprimido en Zip, el cual puede descomprimirse con la extensión “.ePub”, para ver su contenido, se obtiene una estructura de carpetas que están compuestas de diversos archivos como por ejemplo:
+        p La estructura básica del <i>ePub</i> está conformada por un archivo comprimido en Zip, el cual puede descomprimirse con la extensión “.<i>ePub</i>”, para ver su contenido, se obtiene una estructura de carpetas que están compuestas de diversos archivos como por ejemplo:
         ul.lista-ul.icon-1
           li.vineta2 
             i
-            p <b>Fonts: </b>  contiene las fuentes que hacen parte del ePub.
+            p <b><i>Fonts:</i> </b>  contiene las fuentes que hacen parte del <i>ePub</i>.
           li.vineta3 
             i
-            p <b>Images:</b>  presenta el contenido de imágenes que se han utilizado dentro del ePub.
+            p <b><i>Images:</i></b>  presenta el contenido de imágenes que se han utilizado dentro del <i>ePub</i>.
           li.vineta4 
             i
-            p <b>Styles: </b>  contiene todas las características de las hojas de estilo que hacen parte del archivo, dentro de estas se encuentran los estilos Css, que definen el color, tamaño, presentación entre otros.
+            p <b><i>Styles:</i> </b>  contiene todas las características de las hojas de estilo que hacen parte del archivo, dentro de estas se encuentran los estilos Css, que definen el color, tamaño, presentación entre otros.
 
           li.vineta4 
             i
-            p <b>Text: </b>  contiene los archivos HTML, particularmente archivos refertes a texto e imagen, principalmente.
+            p <b><i>Text:</i> </b>  contiene los archivos HTML, particularmente archivos refertes a texto e imagen, principalmente.
       .col-lg-5(data-aos="fade-left")
         .imagen-adornos-flotantes
             img(src="@/assets/curso/35.jpg" alt="Adornos flotantes")
@@ -390,7 +391,7 @@
             .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 0% ; right: ; top: ; bottom: 5% ; width: 60px ")
     #t_1_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2.mb-3 1.6 Herramientas y elementos interactivos
-    p.mb-5 Existe diversidad de herramientas existentes en línea que nos dan la posibilidad de desarrollar contenidos para crear un ebook, estas herramientas por lo general poseen gran cantidad de plantillas prediseñadas que están disponibles para sean editadas y ajustadas de acuerdo a las necesidades de cada persona, generalmente en formato pdf que posteriormente puede ser pasado a ePub y Mobi. 
+    p.mb-5 Existe diversidad de herramientas existentes en línea que nos dan la posibilidad de desarrollar contenidos para crear un <i>ebook</i>, estas herramientas por lo general poseen gran cantidad de plantillas prediseñadas que están disponibles para sean editadas y ajustadas de acuerdo a las necesidades de cada persona, generalmente en formato pdf que posteriormente puede ser pasado a <i>ePub</i> y <i>Mobi</i>. 
     .row.mb-5.align-items-center.justify-content-center
       .col-lg-10
         .contendor-c-bg.p-5
@@ -411,32 +412,32 @@
                         .row.justify-content-center.align-items-center
                           .col-lg-3: img(src="@/assets/curso/36.png")
                           .col-lg-7
-                            h4 INDESIGN
-                            p Indesign es la más completa herramienta para diseñadores que desean empezar a diseñar libros de este tipo. 
+                            h4 <i>INDESIGN</i>
+                            p <i>Indesign</i> es la más completa herramienta para diseñadores que desean empezar a diseñar libros de este tipo. 
                       .carousel-item.bg-white.p-4
                         .row.justify-content-center.align-items-center
                           .col-lg-3: img(src="@/assets/curso/37.png")
                           .col-lg-7
-                            h4 IBOOK
+                            h4 <i>IBOOK</i>
                             p Esta es la aplicación para <i>Ebooks</i> más importante para formatos compatibles con <i>Apple</i>, permite el uso de recursos propios, pero también la creación de elementos nuevos. 
                       .carousel-item.bg-white.p-4
                         .row.justify-content-center.align-items-center
                           .col-lg-3: img(src="@/assets/curso/38.png")
                           .col-lg-7
-                            h4 BOOKSMART
-                            p Es una aplicación profesional para la realización de formatos EPub. 
+                            h4 <i>BOOKSMART</i>
+                            p Es una aplicación profesional para la realización de formatos <i>EPub</i>. 
                       .carousel-item.bg-white.p-4
                         .row.justify-content-center.align-items-center
                           .col-lg-3: img(src="@/assets/curso/39.png")
                           .col-lg-7
-                            h4 CANVA
-                            p Este software tan conocido no solo por la gran cantidad de elementos que podemos generar como flayers, tarjetas de presentación, elementos de diseño entre otros, permite generar la interacción para la creación de libros digitales. 
+                            h4 <i>CANVA</i>
+                            p Este <i>software</i> tan conocido no solo por la gran cantidad de elementos que podemos generar como <i>flayers</i>, tarjetas de presentación, elementos de diseño entre otros, permite generar la interacción para la creación de libros digitales. 
                       .carousel-item.bg-white.p-4
                         .row.justify-content-center.align-items-center
                           .col-lg-3: img(src="@/assets/curso/40.png")
                           .col-lg-7
-                            h4 DESIGNRR
-                            p Esta herramienta principalmente permite realizar Pdf, para luego ser exportados a EPub.
+                            h4 <i>DESIGNRR</i>
+                            p Esta herramienta principalmente permite realizar Pdf, para luego ser exportados a <i>ePub</i>.
                 button.carousel-control-prev(type='button' data-bs-target='#carouselExampleIndicators2' data-bs-slide='prev')
                   span.carousel-control-prev-icon(aria-hidden='true')
                   span.visually-hidden Previous
@@ -513,7 +514,7 @@
             ul.lista-ul.icon-1
                     li 
                       i.fas.fa-circle.fa-xs
-                      p <b>Stop motion:</b>
+                      p <i><b>Stop motion:</b></i>
                         br
                         | Este tipo de animación es muy conocida y se logra haciendo una gran cantidad de tomas consecutivas de un objeto, movilizando entre toma y toma, que al ser unidas dan la sensación de movimiento. 
           .col-md-6.mb-4.mb-md-0
@@ -521,7 +522,7 @@
       .py-4.py-md-5(titulo="Dibujos animados" :icono="require('@/assets/curso/48.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
-            p La técnica de los dibujos animados es atribuida a Disney, y esta dada por una sucesión de imágenes en dos dimensiones, a partir de fotogramas puestos en secuencia, que unidos dan la sensación de movimiento. 
+            p La técnica de los dibujos animados es atribuida a Disney, y está dada por una sucesión de imágenes en dos dimensiones, a partir de fotogramas puestos en secuencia, que unidos dan la sensación de movimiento. 
           .col-md-6.mb-4.mb-md-0
             .tira_1
       .py-4.py-md-5(titulo="Plasmación" :icono="require('@/assets/curso/49.svg')")
@@ -536,7 +537,7 @@
       .py-4.py-md-5(titulo="Animación computarizada" :icono="require('@/assets/curso/50.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
-            p Este tipo de animación ha tenido gran aguije en la última década ya que su parecido con la realidad, es casi imperceptible y no solo se limita a la creación de personajes para películas sino también se utiliza en videojuegos entre otros. En su creación son utilizados diversos programas que permiten generar realidades en 3D y en 4D. 
+            p Este tipo de animación ha tenido gran auge en la última década ya que su parecido con la realidad, es casi imperceptible y no solo se limita a la creación de personajes para películas sino también se utiliza en videojuegos entre otros. En su creación son utilizados diversos programas que permiten generar realidades en 3D y en 4D. 
           .col-md-6.mb-4.mb-md-0
             .tira_3
       .py-4.py-md-5(titulo="Videos" :icono="require('@/assets/curso/51.svg')")
@@ -554,8 +555,8 @@
               img(src="@/assets/curso/slider.svg" alt="Adornos flotantes")
     .row.mb-5.align-items-center
       .col-lg-7(data-aos="fade-right")
-        h4 Html5, CSS, Java script, metadatos
-        p Cuando se desarrolla elementos para la web,  se necesitan diferentes tipos de lenguajes en común para que todos los navegadores lo interpreten de igual manera y se pueda visualizar de manera correcta al lector. HTML, CSS, JAVA SCRIPT, permiten dar un conjunto de órdenes, datos y acciones necesarias para ejecutar y desarrollar las herramientas necesarias que me permiten a un elemento estar en red.  
+        h4 <i>Html5, CSS, Java script, metadatos</i>
+        p Cuando se desarrolla elementos para la web,  se necesitan diferentes tipos de lenguajes en común para que todos los navegadores lo interpreten de igual manera y se pueda visualizar de manera correcta al lector. <i>HTML, CSS, JAVA SCRIPT</i>, permiten dar un conjunto de órdenes, datos y acciones necesarias para ejecutar y desarrollar las herramientas necesarias que me permiten a un elemento estar en red.  
       .col-lg-5(data-aos="fade-left")
         .imagen-adornos-flotantes
             img(src="@/assets/curso/53.jpg" alt="Adornos flotantes")
@@ -569,22 +570,22 @@
 
       .tarjeta.bg--2-claro.p-3(x="20%" y="30%" numero="")
         .h5.mb-2 <i>HyperText Markup Language</i>
-        p En lenguaje claro y coloquial, podemos definir HTML5, como un estándar que define la estructura y todo el contenido de una página web, por medio de la utilización de etiquetas. Una etiqueta de HTML, es un elemento que se encuentra escrito en códigos, los cuales generan una instrucción específica al navegador de como mostrar un elemento. 
+        p En lenguaje claro y coloquial, podemos definir <i>HTML5</i>, como un estándar que define la estructura y todo el contenido de una página <i>web</i>, por medio de la utilización de etiquetas. Una etiqueta de <i>HTML</i>, es un elemento que se encuentra escrito en códigos, los cuales generan una instrucción específica al navegador de como mostrar un elemento. 
           br
           br
-          |Por ejemplo con el uso de una etiqueta de HTML, se pueden colocar los textos a cierto tamaño, subrayados, en cursiva, colocar encabezados, añadir imágenes y tener vínculos hacia otras páginas por ejemplo.
+          |Por ejemplo con el uso de una etiqueta de <i>HTML</i>, se pueden colocar los textos a cierto tamaño, subrayados, en cursiva, colocar encabezados, añadir imágenes y tener vínculos hacia otras páginas por ejemplo.
       .tarjeta.bg--2-claro.p-3(x="40%" y="20%" numero="")
-        .h5.mb-2 CSS
-        p Css en español ”Hojas de estilo en cascada”,  es un código que permite que cada sitio web tenga su propia personalidad y convierta la experiencia de usuario en la más adecuada,  trabaja de manera conjunta con HTML, con el fin y propósito de dar a cada etiqueta, su propio estilo y diseño característico, es decir maneja el diseño y presentación de cada sitio de principio a fin. 
+        .h5.mb-2 <i>CSS</i>
+        p <i>Css</i> en español ”Hojas de estilo en cascada”,  es un código que permite que cada sitio <i>web</i> tenga su propia personalidad y convierta la experiencia de usuario en la más adecuada,  trabaja de manera conjunta con <i>HTML</i>, con el fin y propósito de dar a cada etiqueta, su propio estilo y diseño característico, es decir maneja el diseño y presentación de cada sitio de principio a fin. 
           br
           br
           |Se les llama hojas de estilo en cascada, ya que se pueden tener varias hojas y una de ellas tener propiedades heredadas de otra página.  
           br
           br
-          |Es como si el HTML fuese el esqueleto o soporte de todo sitio y CSS, aquel que define la parte externa del mismo,  principalmente nos ayuda a dar los parámetros de cómo va ser visualizada la página en elementos como por ejemplo, color, fuentes, tamaño etc. 
+          |Es como si el <i>HTML</i> fuese el esqueleto o soporte de todo sitio y <i>CSS</i>, aquel que define la parte externa del mismo,  principalmente nos ayuda a dar los parámetros de cómo va ser visualizada la página en elementos como por ejemplo, color, fuentes, tamaño etc. 
       .tarjeta.bg--2-claro.p-3(x="59%" y="17%" numero="")
-        .h5.mb-2 Java Script
-        p Java script es un lenguaje de programación utilizado para crear acciones, efectos  y  dar interactividad y dinamismo a las páginas web, permitiendo la mejora en la interfaz de usuario. Suele ser confundido con Java, aunque son elementos diferentes. 
+        .h5.mb-2 <i>Java Script</i>
+        p <i>Java script</i> es un lenguaje de programación utilizado para crear acciones, efectos  y  dar interactividad y dinamismo a las páginas <i>web</i>, permitiendo la mejora en la interfaz de usuario. Suele ser confundido con <i>Java</i>, aunque son elementos diferentes. 
       .tarjeta.bg--2-claro.p-3(x="75%" y="30%" numero="")
         .h5.mb-2 Metadatos
         p Metadatos “sobre datos”, los metadatos se refieren a aquellos datos que hablan de otros datos, describiendo la información de los mismos.
@@ -601,12 +602,12 @@
             p Pueden clasificarse en función de distintos criterios, como su contenido, variabilidad o función.
     #t_1_7.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2.mb-3 1.7. Maquetación fija y adaptable
-    p.mb-5 Este tipo de maquetación se encuentra presente en el programa de Indesign, y presenta algunas diferencias de uso:
+    p.mb-5 Este tipo de maquetación se encuentra presente en el programa de <i>Indesign</i>, y presenta algunas diferencias de uso:
     .row
       .col-lg-6
         .tarjeta.bg--1-claro.p-5.h-100
           img(src="@/assets/curso/55.svg" alt="Imagen de una tarjeta" style= 'width: 60px').mb-3
-          h4 MAQUETACION AJUSTABLE O FLUIDA /EPUB 2.0.1
+          h4 MAQUETACION AJUSTABLE O FLUIDA /<i>EPUB</i> 2.0.1
           p Este formato se utiliza en una gran variedad de dispositivos, permitiendo una maquetación que es reajustable, por lo que el lector puede optimizar el contenido en función de las características propias del dispositivo, adecuándose mejor a usuarios de dispositivos que tengan tinta electrónica. Si es necesario posteriormente cambiar la fuente y el tamaño del texto, es importante usar este formato.
             br
             br
