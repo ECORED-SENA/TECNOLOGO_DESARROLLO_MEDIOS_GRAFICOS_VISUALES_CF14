@@ -10,8 +10,8 @@
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Repasemos nuestros conocimientos
-        p.mb-4 Apropiar y repasar conceptos sobre la interfaz de Photoshop y de Lightroom, conceptos de desarrollo de aplicaciones y usabilidad vistos en el componente. 
+          h2 Selecciona la palabra correcta. 
+        p.mb-4 Para desarrollar esta actividad, primero lea la frase de cada ítem y luego señale la palabra que  corresponda. Este ejercicio es de repaso, no constituye una actividad evaluativa. 
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
@@ -22,7 +22,6 @@
                 i.fas.fa-puzzle-piece
 
 
-   
 
 </template>
 
