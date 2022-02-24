@@ -234,7 +234,7 @@
         .row
           .col-lg-6
             h4 Plataformas de imágenes
-            p Este  tipo de plataformas tan útiles para cualquier diseñador, cuenta con bancos  extensos de imágenes, fotografías e ilustraciones, algunas de dominio público y otras con copyright o pago.
+            p Este  tipo de plataformas tan útiles para cualquier diseñador, cuenta con bancos  extensos de imágenes, fotografías e ilustraciones, algunas de dominio público y otras con <i>copyright</i> o pago.
           .col-lg-6: img(src="@/assets/curso/14.png" alt="")
       .tarjeta.color-acento-contenido--borde.bg--3-claro3.border-2.p-4(titulo="Plataformas audiovisuales")
         .row
@@ -368,21 +368,21 @@
       h4.mb-0.me-3 Estructura <i>ePub</i>
     .row.mb-5.align-items-center
       .col-lg-7(data-aos="fade-right")
-        p La estructura básica del <i>ePub</i> está conformada por un archivo comprimido en Zip, el cual puede descomprimirse con la extensión “.<i>ePub</i>”, para ver su contenido, se obtiene una estructura de carpetas que están compuestas de diversos archivos como por ejemplo:
+        p La estructura básica del <em>ePub</em> está conformada por un archivo comprimido en Zip, el cual puede descomprimirse con la extensión “.<em>ePub</em>”, para ver su contenido, se obtiene una estructura de carpetas que están compuestas de diversos archivos como por ejemplo:
         ul.lista-ul.icon-1
           li.vineta2 
             i
-            p <b><i>Fonts:</i> </b>  contiene las fuentes que hacen parte del <i>ePub</i>.
+            p <b><em>Fonts:</em></b>  contiene las fuentes que hacen parte del <em>ePub</em>.
           li.vineta3 
             i
-            p <b><i>Images:</i></b>  presenta el contenido de imágenes que se han utilizado dentro del <i>ePub</i>.
+            p <b><em>Images:</em></b>  presenta el contenido de imágenes que se han utilizado dentro del <em>ePub</em>.
           li.vineta4 
             i
-            p <b><i>Styles:</i> </b>  contiene todas las características de las hojas de estilo que hacen parte del archivo, dentro de estas se encuentran los estilos Css, que definen el color, tamaño, presentación entre otros.
+            p <b><em>Styles:</em> </b>  contiene todas las características de las hojas de estilo que hacen parte del archivo, dentro de estas se encuentran los estilos Css, que definen el color, tamaño, presentación entre otros.
 
           li.vineta4 
             i
-            p <b><i>Text:</i> </b>  contiene los archivos HTML, particularmente archivos refertes a texto e imagen, principalmente.
+            p <b><em>Text:</em> </b>  contiene los archivos HTML, particularmente archivos refertes a texto e imagen, principalmente.
       .col-lg-5(data-aos="fade-left")
         .imagen-adornos-flotantes
             img(src="@/assets/curso/35.jpg" alt="Adornos flotantes")
@@ -514,7 +514,7 @@
             ul.lista-ul.icon-1
                     li 
                       i.fas.fa-circle.fa-xs
-                      p <i><b>Stop motion:</b></i>
+                      p.text-bl <i><b>Stop motion:</b></i>
                         br
                         | Este tipo de animación es muy conocida y se logra haciendo una gran cantidad de tomas consecutivas de un objeto, movilizando entre toma y toma, que al ser unidas dan la sensación de movimiento. 
           .col-md-6.mb-4.mb-md-0
@@ -801,4 +801,8 @@ export default {
       background-position: 0
 .img-infografica__card
   width: 500px
+.text-bl
+
+  b, p
+    color: $color-sistema-texto !important
 </style>
