@@ -196,7 +196,7 @@
         .col-lg-10
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/56_dSe6wVU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/7yVM_cYNonc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2.mb-3 1.3 Software especializado y herramientas de <i>ePub</i>
     p.mb-5 A través del siguiente video se conocerá cómo realizar la exportación para <i>ePub</i> y las herramientas a utilizar
