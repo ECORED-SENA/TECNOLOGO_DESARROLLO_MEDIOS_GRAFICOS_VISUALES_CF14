@@ -205,7 +205,7 @@
         .col-lg-10
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/56_dSe6wVU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/8UzDmhG4lWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2.mb-3 1.4 Plataformas y dispositivos de publicación
     .row.mb-5.align-items-center
