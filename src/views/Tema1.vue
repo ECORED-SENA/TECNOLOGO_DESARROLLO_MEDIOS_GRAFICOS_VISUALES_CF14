@@ -45,7 +45,7 @@
                   p En la actualidad hay muchos portales y sitios en línea con imágenes y lenguajes específicos, que dan la oportunidad de presentar contenido en línea para poder exhibirlo a los clientes. 
                     br
                     br
-                    |Día a día con la adquisición del formato <i><b>ePub</b></i>, el lector tiene mayor campo de acción y posibilidades de encontrar información de manera fácil y accequible,  el cual puede desglosar capítulos y artículos, eligiendo lo que desea leer.
+                    |Día a día con la adquisición del formato <i><b>ePub</b></i>, el lector tiene mayor campo de acción y posibilidades de encontrar información de manera fácil y asequible,  el cual puede desglosar capítulos y artículos, eligiendo lo que desea leer.
                 .col-lg-6: img(src="@/assets/curso/1.jpg")
             .carousel-item.bg--amarillo-claro
               .row.justify-content-center.align-items-center
@@ -205,12 +205,12 @@
         .col-lg-10
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/8UzDmhG4lWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/8UzDmhG4lWAskyope" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2.mb-3 1.4 Plataformas y dispositivos de publicación
     .row.mb-5.align-items-center
       .col-lg-6(data-aos="fade-right")
-        p Una plataforma digital (ver figura 1) es un sitio que alberga información de contendidos diversos que están a disposición de los consumidores y permiten la ejecución de varias aplicaciones y programas  a la vez,  utilizando la menor cantidad de recursos posibles. 
+        p Una plataforma digital (ver figura 1) es un sitio que alberga información de contenidos diversos que están a disposición de los consumidores y permiten la ejecución de varias aplicaciones y programas  a la vez,  utilizando la menor cantidad de recursos posibles. 
           br
           br
           |Existen diferentes tipos de plataformas que se clasifican de acuerdo a su uso y funcionalidad, las plataformas en donde se puede encontrar contenido <i>ePub</i>, principalmente son las siguientes:  
@@ -276,7 +276,7 @@
       h4.mb-0.me-3 Dispositivos de publicación
     .row.mb-5.align-items-center
       .col-lg-6(data-aos="fade-right")
-        p Dentro de los dispositivos en donde se pueden publicar este tipo de contenidos, se encuentran dispositivos comunes con los cuales se con vive todos los días y que gracias a su constante accesos a internet, permiten una interconexión en todo momento y todo lugar, lo cual en el caso de los <i>ebooks</i> es indispensable, por lo menos en un primer momento para poder bajar y manipular los contenidos. 
+        p Dentro de los dispositivos en donde se pueden publicar este tipo de contenidos, se encuentran dispositivos comunes con los cuales se convive todos los días y que gracias a su constante acceso a internet, permiten una interconexión en todo momento y todo lugar, lo cual en el caso de los <i>ebooks</i> es indispensable, por lo menos en un primer momento para poder bajar y manipular los contenidos. 
       .col-lg-6(data-aos="fade-left")
         .imagen-adornos-flotantes
             img(src="@/assets/curso/21.jpg" alt="Adornos flotantes")
@@ -378,11 +378,11 @@
             p <b><em>Images:</em></b>  presenta el contenido de imágenes que se han utilizado dentro del <em>ePub</em>.
           li.vineta4 
             i
-            p <b><em>Styles:</em> </b>  contiene todas las características de las hojas de estilo que hacen parte del archivo, dentro de estas se encuentran los estilos Css, que definen el color, tamaño, presentación entre otros.
+            p <b><em>Styles:</em> </b>  contiene todas las características de las hojas de estilo que hacen parte del archivo, dentro de estas se encuentran los estilos CSS, que definen el color, tamaño, presentación entre otros.
 
           li.vineta4 
             i
-            p <b><em>Text:</em> </b>  contiene los archivos HTML, particularmente archivos refertes a texto e imagen, principalmente.
+            p <b><em>Text:</em> </b>  contiene los archivos HTML, particularmente archivos referentes a texto e imagen, principalmente.
       .col-lg-5(data-aos="fade-left")
         .imagen-adornos-flotantes
             img(src="@/assets/curso/35.jpg" alt="Adornos flotantes")
@@ -556,7 +556,7 @@
     .row.mb-5.align-items-center
       .col-lg-7(data-aos="fade-right")
         h4 <i>Html5, CSS, Java script, metadatos</i>
-        p Cuando se desarrolla elementos para la web,  se necesitan diferentes tipos de lenguajes en común para que todos los navegadores lo interpreten de igual manera y se pueda visualizar de manera correcta al lector. <i>HTML, CSS, JAVA SCRIPT</i>, permiten dar un conjunto de órdenes, datos y acciones necesarias para ejecutar y desarrollar las herramientas necesarias que me permiten a un elemento estar en red.  
+        p Cuando se desarrolla elementos para la web,  se necesitan diferentes tipos de lenguajes en común para que todos los navegadores lo interpreten de igual manera y se pueda visualizar de manera correcta al lector. <i>HTML, CSS, JAVA SCRIPT</i>, permiten dar un conjunto de órdenes, datos y acciones necesarias para ejecutar y desarrollar las herramientas necesarias que le permiten a un elemento estar en red.  
       .col-lg-5(data-aos="fade-left")
         .imagen-adornos-flotantes
             img(src="@/assets/curso/53.jpg" alt="Adornos flotantes")
